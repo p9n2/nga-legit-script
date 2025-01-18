@@ -1,9 +1,5 @@
 getgenv().SilentKeyy = 'z'
 getgenv().PredictionAmmount = 0.137
-
--- cracked by wvrrke and nga legit script
--- https://discord.gg/k9FUcDCgjm
-
 --// Main Libarys \\--
 local libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/imagoodpersond/puppyware/main/lib"))()
 local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/imagoodpersond/puppyware/main/notify"))()
@@ -148,7 +144,7 @@ local PuppyModule = {
     Instance = {}
 }
 
-local Window = libary:new({name = "nga legit script", accent = Color3.fromRGB(270, 120, 140), textsize = 13})
+local Window = libary:new({name = "aiming", accent = Color3.fromRGB(270, 120, 140), textsize = 13})
 local AimingTab = Window:page({name = "Legit"})
 local RageTab = Window:page({name = "Rage"})
 local VisualTab = Window:page({name = "Visauls"})
